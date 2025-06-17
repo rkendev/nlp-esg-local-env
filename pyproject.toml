@@ -1,0 +1,27 @@
+[tool.poetry]
+name         = "nlp-esg-local-env"
+version      = "0.1.0"
+description  = ""
+authors      = ["rken <aspjscript@hotmail.com>"]
+readme       = "README.md"
+license      = "MIT"
+# optional: if you have a src/ or package directory, uncomment next line
+# packages    = [{ include = "your_package_name" }]
+package-mode = false
+
+
+[tool.poetry.dependencies]
+python           = ">=3.9,<3.13"
+dagster          = "^1.10.20"
+dagit            = "^1.10.20"
+sec-api          = "^1.0.32"
+python-dotenv    = "^1.1.0"
+requests         = "^2.32.4"
+
+[tool.poetry.group.dev.dependencies]
+pytest           = "^8.4.0"
+ruff              = "^0.11.13"
+
+[build-system]
+requires    = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
