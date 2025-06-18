@@ -17,6 +17,8 @@ dagit            = "^1.10.20"
 sec-api          = "^1.0.32"
 python-dotenv    = "^1.1.0"
 requests         = "^2.32.4"
+pdf2image = "^1.17.0"
+pytesseract = "^0.3.13"
 
 [tool.poetry.group.dev.dependencies]
 pytest           = "^8.4.0"
