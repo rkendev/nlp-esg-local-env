@@ -3,3 +3,4 @@
   - python_file: pipelines/download_csr_from_ir.py # AT-02 job
   - python_file: pipelines/ocr_csr.py              # AT-02 OCR job
   - python_file: pipelines/parse_csr.py            # AT-02 parsing job
+  - python_file: pipelines/bronze_ingest.py        # AT-03
