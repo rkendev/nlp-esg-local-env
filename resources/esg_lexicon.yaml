@@ -1,0 +1,433 @@
+positive:
+  # --- Environment (≈70 terms) ---
+  - renewable energy
+  - clean energy
+  - renewable electricity
+  - energy efficiency
+  - carbon neutral
+  - net zero
+  - carbon negative
+  - decarbonization
+  - emissions reduction
+  - low-carbon technology
+  - climate action
+  - climate resilience
+  - sustainable materials
+  - sustainable practices
+  - environmental stewardship
+  - biodiversity conservation
+  - conservation efforts
+  - water conservation
+  - circular economy
+  - circularity
+  - recycling
+  - recycled materials
+  - waste reduction
+  - pollution prevention
+  - clean technology
+  - green innovation
+  - eco-friendly
+  - electric vehicles
+  - renewable resources
+  - green buildings
+  - energy conservation
+  - sustainable development
+  - environmental sustainability
+  - green finance
+  - climate initiatives
+  - greenhouse gas reduction
+  - carbon footprint reduction
+  - clean energy transition
+  - climate mitigation
+  - carbon offsetting
+  - sustainable sourcing
+  - responsible sourcing
+  - environmental impact mitigation
+  - renewable energy projects
+  - energy transition
+  - sustainable innovation
+  - green energy
+  - carbon neutrality
+  - sustainable supply chain
+  - green bonds
+  - climate adaptation
+  - renewable energy infrastructure
+  - wildlife conservation
+  - water stewardship
+  - emissions targets
+  - renewable energy procurement
+  - fleet electrification
+  - carbon capture and storage
+  - CCUS
+  - carbon capture hub
+  - direct air capture
+  - advanced recycling
+  - closed-loop recycling
+  - lower-carbon fuels
+  - sustainable aviation fuel
+  - electrified drilling
+  - flare elimination
+  - methane abatement
+  - leak detection and repair
+  - clean hydrogen
+  - green ammonia
+  - nature-based solutions
+  - regenerative agriculture
+  - soil sequestration
+  - climate-smart forestry
+  - blue carbon projects
+  - carbon removal credits
+  - zero-waste manufacturing
+  - science-based targets
+  - Paris-aligned
+  - low-carbon economy
+  - zero emissions goal
+  # --- Social (≈65 terms) ---
+  - work-life balance
+  - mental health support
+  - community development
+  - economic empowerment
+  - living wage
+  - inclusive workplace
+  - diverse leadership
+  - training and education
+  - diversity, equity and inclusion
+  - anti-discrimination
+  - employee satisfaction
+  - employee retention
+  - gender diversity
+  - social equity
+  - multistakeholder partnership
+  - cultural diversity
+  - women in leadership
+  - inclusive design
+  - accessible workplaces
+  - health and wellness programs
+  - supplier responsibility
+  - employee empowerment
+  - sustainability initiatives
+  - leadership diversity
+  - equal opportunity
+  - apprenticeship programs
+  - reskilling workforce
+  - pay equity
+  - childcare support
+  - parental leave
+  - human rights due diligence
+  - community investment
+  - social impact bonds
+  - philanthropic grants
+  - STEM education outreach
+  - digital inclusion
+  - affordable housing support
+  - volunteer days
+  - disaster relief donations
+  - indigenous engagement
+  - fair labor standards
+  - collective bargaining agreements
+  - responsible marketing
+  - family-friendly policies
+  - health-and-safety training
+  - employee engagement programs
+  - community partnerships
+  - youth empowerment
+  - veteran hiring
+  - minority supplier program
+  - ethical recruitment
+  - worker voice surveys
+  - whistleblower protection
+  - conflict-free minerals
+  - supplier diversity
+  - living income
+  - workplace flexibility
+  - psychosocial safety
+  - remote work enablement
+  - employee resource groups
+  - inclusive growth
+  - decent work
+  - UN Global Compact commitment
+  - fair trade sourcing
+  # --- Governance (≈65 terms) ---
+  - independent board
+  - shareholder rights
+  - sustainability strategy
+  - inclusive governance
+  - corporate transparency
+  - responsible corporate governance
+  - ethical supply chain
+  - corporate ethics
+  - board independence
+  - equal pay
+  - social investment
+  - community empowerment
+  - employee volunteerism
+  - inclusive policies
+  - stakeholder value
+  - social responsibility initiatives
+  - capacity building
+  - employee morale
+  - positive work culture
+  - talent retention
+  - sustainability committee
+  - ESG oversight
+  - audit committee independence
+  - integrated reporting
+  - annual sustainability report
+  - climate risk disclosure
+  - TCFD alignment
+  - double materiality
+  - proxy access
+  - transparent lobbying
+  - political expenditure disclosure
+  - green procurement
+  - climate finance
+  - innovation in sustainability
+  - responsible AI
+  - data privacy safeguards
+  - cyber-security governance
+  - risk management framework
+  - code of conduct
+  - supplier code of ethics
+  - anti-bribery policy
+  - anti-corruption training
+  - whistle-safe channel
+  - board diversity quota
+  - ESG performance bonus
+  - long-term incentive alignment
+  - executive clawback
+  - pay-for-performance
+  - independent chair
+  - ESG linked loan
+  - green bond assurance
+  - sustainability-linked bond
+  - climate scenario analysis
+  - net-zero roadmap
+  - transition plan
+  - SASB compliance
+  - CDP leadership score
+  - ISO 14001 certified
+  - ISO 45001 certified
+  - supply-chain traceability
+  - responsible investment policy
+  - stewardship code
+  - anti-money-laundering controls
+  - inclusive decision-making
+  - ethics hotline
+  - transparent remuneration
+  - external assurance
+
+negative:
+  # --- Environment (≈85 terms) ---
+  - climate change
+  - greenhouse gas emissions
+  - GHG emissions
+  - carbon emissions
+  - global warming
+  - fossil fuels
+  - coal power plants
+  - air pollution
+  - water pollution
+  - carbon footprint
+  - deforestation
+  - pollution
+  - oil spill
+  - toxic waste
+  - hazardous waste
+  - industrial waste
+  - single-use plastics
+  - extreme weather
+  - flooding
+  - drought
+  - wildfires
+  - sea level rise
+  - climate risk
+  - physical risk
+  - biodiversity loss
+  - habitat destruction
+  - ozone depletion
+  - resource depletion
+  - greenhouse gases
+  - CO2 emissions
+  - methane emissions
+  - plastic pollution
+  - environmental degradation
+  - air emissions
+  - environmental damage
+  - non-renewable energy
+  - oil and gas
+  - industrial pollution
+  - e-waste
+  - mining impact
+  - water scarcity
+  - climate crisis
+  - environmental disaster
+  - marine pollution
+  - oil dependence
+  - fracking
+  - illegal logging
+  - fugitive emissions
+  - gas flaring
+  - well blowout
+  - upstream emissions
+  - downstream emissions
+  - tar sands
+  - oil sands
+  - petrochemical complex
+  - catastrophic spill
+  - methane super-emitter
+  - flaring reduction target missed
+  - stranded assets
+  - irreversible damage
+  - toxic runoff
+  - chemical leak
+  - contaminated aquifer
+  - brownfield site
+  - hazardous discharge
+  - noise pollution
+  - light pollution
+  - ecocide
+  - desertification
+  - coral bleaching
+  - ocean acidification
+  - habitat fragmentation
+  - invasive species
+  - poaching
+  - ivory trade
+  - illegal wildlife trade
+  - pesticide drift
+  - soil erosion
+  - black carbon
+  - particulate matter
+  - diesel exhaust
+  - acid rain
+  - mercury contamination
+  - lead poisoning
+  # --- Social (≈60 terms) ---
+  - safety violations
+  - workplace safety violations
+  - labor strike
+  - mass layoffs
+  - toxic culture
+  - lack of diversity
+  - gender bias
+  - sexual harassment
+  - gender pay gap
+  - income inequality
+  - systemic racism
+  - child labor allegations
+  - sweatshop conditions
+  - worker exploitation
+  - forced labor
+  - modern slavery
+  - human trafficking
+  - human rights abuses
+  - human rights violation
+  - indigenous rights violations
+  - abuse of power
+  - whistleblower suppression
+  - retaliation
+  - psychological harm
+  - bullying
+  - unsafe conditions
+  - repetitive strain injuries
+  - excessive overtime
+  - union busting
+  - wage theft
+  - poverty wages
+  - food insecurity
+  - community opposition
+  - social unrest
+  - protest crackdown
+  - eviction
+  - housing displacement
+  - gentrification
+  - child exploitation
+  - discrimination lawsuit
+  - hate speech
+  - privacy violation
+  - data breach
+  - breach of privacy
+  - online harms
+  - surveillance abuse
+  - misinformation
+  - addiction risk
+  - mental health crisis
+  - algorithmic bias
+  - equal opportunity failure
+  - lack of employee voice
+  - unsafe product
+  - product recall
+  - supply chain disruption
+  - public health hazard
+  - school dropout
+  - digital divide
+  - wage freeze
+  - community protests
+  # --- Governance (≈55 terms) ---
+  - Scope 1 emissions
+  - Scope 2 emissions
+  - Scope 3 emissions
+  - ethics violation
+  - lack of oversight
+  - lack of board diversity
+  - negligence
+  - gross negligence
+  - audit failure
+  - falsified data
+  - false advertising
+  - shareholder lawsuit
+  - executive misconduct
+  - unethical practices
+  - environmental violations
+  - kickbacks
+  - white-collar crime
+  - Ponzi scheme
+  - insider trading
+  - market manipulation
+  - price fixing
+  - lack of corporate governance
+  - unaccountable management
+  - cover-up
+  - whistleblower retaliation
+  - outdated policies
+  - regulatory sanctions
+  - illegal dumping
+  - toxic spill
+  - industrial accident
+  - fire hazard
+  - environmental liability
+  - meltdown
+  - misleading claims
+  - unauthorized practices
+  - anticompetitive practices
+  - antitrust violation
+  - antitrust lawsuit
+  - inequity
+  - corruption
+  - bribery
+  - fraud
+  - money laundering
+  - money laundering scandal
+  - embezzlement
+  - nepotism
+  - conflicts of interest
+  - mismanagement
+  - non-compliance
+  - false reporting
+  - fraudulent reporting
+  - accounting scandal
+  - corruption scandal
+  - ethical breach
+  - SEC investigation
+  - class action lawsuit
+  - criminal charges
+  - breach of trust
+  - deceptive marketing
+  - regulatory investigation
+  - ethics scandal
+  - insider loans
+  - opaque lobbying
+  - dark money
+  - shell company abuse
+  - procurement fraud
+  - political interference
